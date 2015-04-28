@@ -1,0 +1,11 @@
+How do you create a new git repository locally?
+Create a new repository locally by: git init > git add (stages) > git commit -m (pushes with a message)
+
+How would you find out what files are currently staged?
+Command line 'git status'
+
+How would you add a file to the staging area?
+git add (using the '.' adds all the files too)
+
+How would you commit your changes with the message
+git commit -m
