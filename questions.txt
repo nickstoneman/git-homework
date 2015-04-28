@@ -8,3 +8,4 @@ How would you add a file to the staging area?
 git add (using the '.' adds all the files too)
 
 How would you commit your changes with the message
+git commit -m
